@@ -1,0 +1,26 @@
+<annotation>
+	<folder>c</folder>
+	<filename>c.68f5235c-e51b-11ed-914a-acde48001122.jpg</filename>
+	<path>/Users/Ronen/SLD/RealTimeObjectDetection/Tensorflow/workspace/images/collectedimages/c/c.68f5235c-e51b-11ed-914a-acde48001122.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>c</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>377</ymin>
+			<xmax>501</xmax>
+			<ymax>615</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>b</folder>
+	<filename>b.58fae478-e51b-11ed-914a-acde48001122.jpg</filename>
+	<path>/Users/Ronen/SLD/RealTimeObjectDetection/Tensorflow/workspace/images/collectedimages/b/b.58fae478-e51b-11ed-914a-acde48001122.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>b</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>299</xmin>
+			<ymin>168</ymin>
+			<xmax>506</xmax>
+			<ymax>602</ymax>
+		</bndbox>
+	</object>
+</annotation>
