@@ -1,0 +1,26 @@
+<annotation>
+	<folder>u</folder>
+	<filename>u.861e8c92-e49a-11ed-8184-aeecab49e57b.jpg</filename>
+	<path>/Users/krishna/Desktop/SLD/RealTimeObjectDetection/Tensorflow/workspace/images/collectedimages/u/u.861e8c92-e49a-11ed-8184-aeecab49e57b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>u</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>419</xmin>
+			<ymin>334</ymin>
+			<xmax>1115</xmax>
+			<ymax>1034</ymax>
+		</bndbox>
+	</object>
+</annotation>
