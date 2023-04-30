@@ -1,0 +1,26 @@
+<annotation>
+	<folder>v</folder>
+	<filename>v.e6e6c994-e786-11ed-ae6c-2c4d543c9dbd.jpg</filename>
+	<path>C:\Users\rashm\Desktop\Davis Stuff\SLD\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\v\v.e6e6c994-e786-11ed-ae6c-2c4d543c9dbd.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>v</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>294</ymin>
+			<xmax>307</xmax>
+			<ymax>477</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>w</folder>
+	<filename>w.f7f1ff1c-e786-11ed-9a1e-2c4d543c9dbd.jpg</filename>
+	<path>C:\Users\rashm\Desktop\Davis Stuff\SLD\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\w\w.f7f1ff1c-e786-11ed-9a1e-2c4d543c9dbd.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>w</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>248</ymin>
+			<xmax>311</xmax>
+			<ymax>470</ymax>
+		</bndbox>
+	</object>
+</annotation>
