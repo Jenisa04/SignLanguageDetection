@@ -1,0 +1,26 @@
+<annotation>
+	<folder>m</folder>
+	<filename>m.edc27f2c-f6f9-11ed-b6d8-acde48001122.jpg</filename>
+	<path>/Users/user/Desktop/DDSC/RealTimeObjectDetection/Tensorflow/workspace/images/collectedimages/m/m.edc27f2c-f6f9-11ed-b6d8-acde48001122.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>m</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>841</xmin>
+			<ymin>228</ymin>
+			<xmax>1076</xmax>
+			<ymax>542</ymax>
+		</bndbox>
+	</object>
+</annotation>
