@@ -1,0 +1,26 @@
+<annotation>
+	<folder>f</folder>
+	<filename>f.3851ae98-fea0-11ed-95ca-aeecab49e57b.jpg</filename>
+	<path>/Users/krishna/Desktop/SLD/RealTimeObjectDetection/Tensorflow/workspace/images/collectedimages/f/f.3851ae98-fea0-11ed-95ca-aeecab49e57b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>f</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>590</xmin>
+			<ymin>88</ymin>
+			<xmax>1563</xmax>
+			<ymax>1045</ymax>
+		</bndbox>
+	</object>
+</annotation>
